@@ -1,5 +1,17 @@
-.App {
-  text-align: center;
+
+.App-container {
+  width: 100vw;
+  height: 100vh;
+  padding: 0 16px;
+  box-sizing: border-box;
+  background-color: #fbf8f3;
+}
+
+.impressions-container {
+  width: 100%;
+  background-color: #d7f5f5;
+  padding: 16px;
+  box-sizing: border-box;
 }
 
 .App-logo {
